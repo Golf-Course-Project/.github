@@ -1,6 +1,6 @@
 This organization includes all our repos to manage the Golf Course Project app (coming soon). The Gold Course Project is a sevice built to provide open and available data on all golf course projects across the United States.
 
-## Public Repositories
+# Public Repositories
 
 - Identity Service (private) : Security, user authentication, tokens, and sessions.
 - [User Service](https://github.com/Golf-Course-Project/user-service) : Create accounts and manage profile

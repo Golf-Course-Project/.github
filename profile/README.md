@@ -6,12 +6,12 @@ This organization includes all our repos to manage the Golf Course Project app (
 
 - [User Service](https://github.com/Golf-Course-Project/user-service) : Create accounts and manage profile
 - [Admin Service](https://github.com/Golf-Course-Project/admin-service) : Managing users, sessions, and system data
-- Admin app : React app for all admin related tasks
 
 # 🙅‍♀️ Private Repos
 
 - Identity Service : Security, user authentication, tokens, and sessions.
 - Course Service : Golf courses, course rankings, and course ratings
+- Admin app : React app for all admin related tasks
 
 <!--
 

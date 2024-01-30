@@ -8,7 +8,7 @@ This project is just getting started and we hope to go live in the first half of
 
 - [User Service](https://github.com/Golf-Course-Project/user-service) : Create accounts and manage profile
 - [Admin Service](https://github.com/Golf-Course-Project/admin-service) : Managing users, sessions, and system data
-- [Admin Web App](https://github.com/Golf-Course-Project/admin-webapp) : React front end to admin level tasks 
+- [Admin Web App](https://github.com/Golf-Course-Project/admin-webapp) : React front end for admin level tasks 
 
 # 🙅‍♀️ Private Repos
 

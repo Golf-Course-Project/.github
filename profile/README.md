@@ -8,12 +8,12 @@ This project is just getting started and we hope to go live in the first half of
 
 - [User Service](https://github.com/Golf-Course-Project/user-service) : Create accounts and manage profile
 - [Admin Service](https://github.com/Golf-Course-Project/admin-service) : Managing users, sessions, and system data
+- [Admin Web App](https://github.com/Golf-Course-Project/admin-webapp) : React front end to admin level tasks 
 
 # 🙅‍♀️ Private Repos
 
 - Identity Service : Security, user authentication, tokens, and sessions.
 - Course Service : Golf courses, course rankings, and course ratings
-- Admin app : React app for all admin related tasks
 
 <!--
 

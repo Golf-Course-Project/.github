@@ -3,14 +3,14 @@
 This organization includes all our repos to manage the Golf Course Project app (coming soon). The Golf Course Project is a sevice built to provide open and available data on all golf course projects across the United States.
 
 
-# 📢 Public Repos
+# 📢 Public Repo
 
-- [User Service](https://github.com/Golf-Course-Project/user-service) : Create accounts and manage profile
-- [Admin Service](https://github.com/Golf-Course-Project/admin-service) : Managing users, sessions, and system data
 - [Admin Web App](https://github.com/Golf-Course-Project/admin-webapp) : React front end for admin level tasks 
 
 # 🙅‍♀️ Private Repos
 
+- User Service : Create accounts and manage profile
+- Admin Service : Managing users, sessions, and system data
 - Identity Service : Security, user authentication, tokens, and sessions.
 - Course Service : Golf courses, course rankings, and course ratings
 

@@ -1,7 +1,5 @@
 ![./profile/logo.png](https://github.com/Golf-Course-Project/.github/blob/main/profile/logo.png)
 
-> 📣 It's summer time and we are busy golfing. We will pick this project back up in the fall of 2025.
-
 
 This organization includes all our repos to manage the Golf Course Project app. The Golf Course Project is a sevice built to provide open and available data on all golf course projects across the United States.
 
